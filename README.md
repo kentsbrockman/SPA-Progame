@@ -2,10 +2,7 @@
 
 ## Installation
 
-`git clone git@github.com:luca-montaigut/The_Hyper_Progame.git`
-
-`cd The_Hyper_Progame`
-
-`xdg-open index.html`
-
-`npm run build`
+- Télécharger ou cloner ce repo.
+- `$ cd SPA_Progame_QPlaud`
+- `$ npm run build`
+- Ouvrir index.html dans votre navigateur
