@@ -1,8 +1,18 @@
 # Single Page Application - Progame App
 
-## Installation
+Here is a project around the concept of the "Single Page Application". Mostly realized in vanilla JavaScript, the site provides an informative platform to search past and future video games.
 
-- Télécharger ou cloner ce repo.
-- `$ cd SPA_Progame_QPlaud`
-- `$ npm run build`
-- Ouvrir index.html dans votre navigateur.
+---
+
+##Set-up
+
+- Site temporarily available at [this address]()
+- Alternative: get the resource and run it locally on your machine:
+ - Download or clone this repository.
+ - `$ cd SPA-Progame`
+ - `$ npm run build`
+ - Open index.html in your favorite navigator.
+
+---
+
+Have a great day!
