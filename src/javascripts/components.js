@@ -19,7 +19,7 @@ const header = () => {
 
 const footer = () => {
   return `
-  <footer class="mt-3">
+  <footer class="d-flex justify-content-end mr-3 mt-3">
     <p>Kents Brockman © 2020</p>
   </footer>
   `;

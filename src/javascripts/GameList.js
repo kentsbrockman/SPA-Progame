@@ -116,10 +116,10 @@ const GameList = (argument = "") => {
                       game.background_image
                     }" class="cover card-img-top" alt="${game.name}-cover">
                     <div class="game-infos card-img-top not-visible">
-                      <h3>${convertDate(game.released)}</h3>
-                      <h3 class="creators">${game.slug}</h3>
+                      <h3>Release date: ${convertDate(game.released)}</h3>
+                      <h3 class="creators">Creators: ${game.slug}</h3>
+                      <p>Genres: ${genres}</p>
                       <h4>${game.rating}/5 - ${game.ratings_count} votes</h4>
-                      <p>${genres}</p>
                     </div>
                     <div class="card-body">
                       <h2><a href = "#gamedetail/${
@@ -175,11 +175,10 @@ const GameList = (argument = "") => {
         <p>The Hyper Progame is the world's premier event for computer and video games and related products. At The Hyper Progame, the video game industy's top talent pack the Los Angeles Convention Center, connecting tens of thousands of the best, brightest, and most innovative in the interactive entertainment industy. For three exiting days, leading-edge compagnies, groundbrealing new technologies, and never-before seen products will be showcased. The Hyper Progame connects you with both new and existing partners, industry executives, gamers, and social influencers providing unprecedented exposure</p>
         <div class="box">
           <select id="platforms" name="platformlist">
-            <option value="any">Platform : Any</option>
+            <option>Platforms</option>
           </select>
         </div>  
       </header>
-
 
       <section class="game-list">
         <div class="games row">...loading

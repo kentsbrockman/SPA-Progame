@@ -42,7 +42,7 @@ const hideInfo = (e) => {
 };
 
 const convertDate = (date) => {
-  return moment(date).format("MMMM Do YYYY");
+  return moment(date).format("MMMM Do, YYYY");
 };
 
 const addCreators = () => {
