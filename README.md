@@ -6,12 +6,10 @@ Here is a project around the concept of the "Single Page Application". Mostly re
 
 ##Set-up
 
-- Site temporarily available at [this address]()
-- Alternative: get the resource and run it locally on your machine:
- - Download or clone this repository.
- - `$ cd SPA-Progame`
- - `$ npm run build`
- - Open index.html in your favorite navigator.
+- Download or clone this repository.
+- `$ cd SPA-Progame`
+- `$ npm run build`
+- Open index.html in your favorite navigator.
 
 ---
 
