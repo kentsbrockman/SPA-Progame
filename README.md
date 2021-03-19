@@ -4,7 +4,7 @@ Here is a project around the concept of the "Single Page Application". Mostly re
 
 ---
 
-##Set-up
+##Set-up 
 
 - Download or clone this repository.
 - `$ cd SPA-Progame`
